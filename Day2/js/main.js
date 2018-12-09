@@ -1,4 +1,4 @@
-
+// alert('loaded')
 // //Guessing Game
 //
 // //ask user for guess
@@ -31,9 +31,9 @@
 //     console.log("You guessed it!");
 //   }
 ///////
-// let count = 1;
-//
-//
-// while(count <= 10){
-//   console.log("count is:" + count);
-// }
+let count = 1;
+
+
+while(count < 6){
+  console.log("count is:" + count);
+}
